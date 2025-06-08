@@ -3329,8 +3329,9 @@ select.mobile-device {
   .pricingTable .title {
     font-size: 22px;
   }
-  .top-bar {
-    display: none;
+  .top-bar,
+  .owl-nav {
+    display: none !important;
   }
 }
 
