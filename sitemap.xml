@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- Homepage -->
+    <url>
+        <loc>https://heliumballoonskuwait.com/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://heliumballoonskuwait.com/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://heliumballoonskuwait.com/en/" />
+    </url>
+    
+    <!-- About Us -->
+    <url>
+        <loc>https://heliumballoonskuwait.com/about-us.html</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://heliumballoonskuwait.com/about-us.html" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://heliumballoonskuwait.com/en/about-us.html" />
+    </url>
+    
+    <!-- Services -->
+    <url>
+        <loc>https://heliumballoonskuwait.com/services.html</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://heliumballoonskuwait.com/services.html" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://heliumballoonskuwait.com/en/services.html" />
+    </url>
+    
+    <!-- Portfolio -->
+    <url>
+        <loc>https://heliumballoonskuwait.com/portfolio.html</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://heliumballoonskuwait.com/portfolio.html" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://heliumballoonskuwait.com/en/portfolio.html" />
+    </url>
+    
+    <!-- Pricing -->
+    <url>
+        <loc>https://heliumballoonskuwait.com/pricing.html</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://heliumballoonskuwait.com/pricing.html" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://heliumballoonskuwait.com/en/pricing.html" />
+    </url>
+    
+    <!-- Testimonials -->
+    <url>
+        <loc>https://heliumballoonskuwait.com/testimonials.html</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://heliumballoonskuwait.com/testimonials.html" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://heliumballoonskuwait.com/en/testimonials.html" />
+    </url>
+    
+    <!-- Contact -->
+    <url>
+        <loc>https://heliumballoonskuwait.com/contact.html</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://heliumballoonskuwait.com/contact.html" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://heliumballoonskuwait.com/en/contact.html" />
+    </url>
+    
+    <!-- Service-specific pages -->
+    <url>
+        <loc>https://heliumballoonskuwait.com/services.html#wedding</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://heliumballoonskuwait.com/services.html#birthday</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://heliumballoonskuwait.com/services.html#events</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://heliumballoonskuwait.com/services.html#corporate</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+</urlset> 
